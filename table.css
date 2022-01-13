@@ -1,0 +1,10 @@
+ /*tablisa*/
+ .table {
+    width: 100%;
+}
+.table td {
+   padding-bottom: 10px;
+}
+.table tr:nth-child(even) {
+   background: rgb(175, 243, 175);
+}

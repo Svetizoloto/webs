@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<p>Image to use:</p>
+<img id="web" src="images/CSS.jpg" alt="CSS" width="277" height="250">
+
+<p>Canvas to fill:</p>
+<canvas id="myCanvas" width="300" height="250"
+style="border:1px solid #d3d3d3;">
+Your browser does not support the HTML canvas tag.</canvas>
+
+<p><button onclick="myCanvas()">Try it</button></p>
+
+<script>
+function myCanvas() {
+  var c = document.getElementById("myCanvas");
+  var ctx = c.getContext("2d");
+  var img = document.getElementById("web");
+  ctx.drawImage(img,10,10);
+}
+</script>
+
+</body>
+</html>
+<!--https://www.w3schools.com/html/tryit.asp?filename=tryhtml5_canvas_tut_img-->

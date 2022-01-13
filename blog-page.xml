@@ -1,0 +1,553 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE blogpage SYSTEM "blog-page.dtd">
+<blogpage>
+    <header>Accusamus</header>
+    <header-desc>At vero eos et accusamus et iusto odio dignissimos</header-desc>
+    <article>
+        <content>
+            <theme>At vero eos et accusamus et iusto odio dignissimos </theme>
+            <description>
+        At vero eos et accusamus et iusto odio dignissimos ducimus qui
+        blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et
+        quas molestias excepturi sint occaecati cupiditate non provident, similique
+        sunt in culpa qui officia deserunt mollitia animi, id est laborum et 
+        dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio.
+        Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil
+        impedit quo minus id quod maxime placeat facere possimus, omnis 
+        voluptas assumenda est, omnis dolor repellendus.
+            </description>
+        </content>
+
+        <inf-meta>  
+            <date>6 декабря 2020</date>
+            <author>First_name Last_name</author>
+            <keyWords>
+                <keyword>Woman </keyword>
+                <keyword>Footbal </keyword>
+                <keyword>ManCity </keyword>
+            </keyWords>
+            <apps>
+                <appfile>images/blog/image1.jpg</appfile>
+                <applink>
+                    <applink-name>Post</applink-name>
+                    <value>https://ru.wikipedia.org/wiki/Common_Language_Runtime</value>
+                </applink>
+            </apps>
+        </inf-meta>
+        <comms>
+            <comment>
+                <commentText>Dignissimos ducimus qui blanditiis</commentText>
+                <comment-author>Александр</comment-author>
+                <comment-tags>
+                <comment-tag>Комментарий </comment-tag>
+            </comment-tags>
+            </comment>
+            <comment>
+                <commentText>Dolores et quas molestias</commentText>
+                <comment-author>Евгения</comment-author>
+                <comment-tags>
+            <comment-tag>Вопрос </comment-tag>
+            </comment-tags>
+            </comment>
+            <comment>
+                <commentText>Iusto odio dignissimos ducimus qui blanditiis
+                 praesentium voluptatum deleniti</commentText>
+                <comment-author>First_name Last_name</comment-author>
+            <comment-tags>
+            <comment-tag> Автор </comment-tag>
+            </comment-tags>
+            </comment>
+        </comms>
+    </article>
+    <article>
+        <content>
+                <theme>At vero eos et accusamus et iusto odio dignissimos </theme>
+                <description>
+        At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis
+        praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias
+        excepturi sint occaecati cupiditate non provident, similique sunt in culpa
+        qui officia deserunt mollitia animi, id est laborum et dolorum fuga. 
+        Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore,
+        cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod
+        maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor
+        repellendus. 
+                </description>
+        </content>
+        <inf-meta>
+            <date>6 декабря 2020</date>
+            <author>First_name Last_name</author>
+            <keyWords>
+                <keyword>Woman </keyword>
+                <keyword>Footbal </keyword>
+                <keyword>ManCity </keyword>
+            </keyWords>
+            <apps>
+                <appfile>images/blog/image1.jpg</appfile>
+            <applink>
+                <applink-name>Post</applink-name>
+                <value>https://ru.wikipedia.org/wiki/Common_Language_Runtime</value>
+            </applink>
+            </apps>
+        </inf-meta>
+            <comms>
+            <comment>
+                <commentText>Dignissimos ducimus qui blanditiis</commentText>
+                <comment-author>Александр</comment-author>
+                <comment-tags>
+                <comment-tag>Комментарий </comment-tag>
+                </comment-tags>
+            </comment>
+            <comment>
+                <commentText>Dolores et quas molestias</commentText>
+                <comment-author>Евгения</comment-author>
+                <comment-tags>
+                <comment-tag>Вопрос </comment-tag>
+                </comment-tags>
+            </comment>
+            <comment>
+                <commentText>Iusto odio dignissimos ducimus qui blanditiis
+               praesentium voluptatum deleniti</commentText>
+                <comment-author>First_name Last_name</comment-author>
+                <comment-tags>
+                <comment-tag> Автор </comment-tag>
+                </comment-tags>
+            </comment>
+            </comms>
+    </article>
+    <article>
+            <content>
+            <theme>At vero eos et accusamus et iusto odio dignissimos </theme>
+                    <description>
+            At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis
+            praesentium voluptatum deleniti atque corrupti quos dolores et quas
+            molestias excepturi sint occaecati cupiditate non provident, similique 
+            sunt in culpa qui officia deserunt mollitia animi, id est laborum et
+            dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio.
+            Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil
+            impedit quo minus id quod maxime placeat facere possimus, omnis voluptas
+            assumenda est, omnis dolor repellendus. 
+                    </description>
+            </content>
+        <inf-meta>
+            <date>6 декабря 2020</date>
+            <author>First_name Last_name</author>
+            <keyWords>
+                <keyword>Woman </keyword>
+                <keyword>Footbal </keyword>
+                <keyword>ManCity </keyword>
+            </keyWords>
+        <apps>
+        <appfile>images/blog/image1.jpg</appfile>
+        <applink>
+            <applink-name>Post</applink-name>
+            <value>https://ru.wikipedia.org/wiki/Common_Language_Runtime</value>
+        </applink>
+        </apps>
+        </inf-meta>
+        <comms>
+        <comment>
+            <commentText>Dignissimos ducimus qui blanditiis</commentText>
+            <comment-author>Александр</comment-author>
+            <comment-tags>
+            <comment-tag>Комментарий </comment-tag>
+            </comment-tags>
+        </comment>
+        <comment>
+            <commentText>Dolores et quas molestias</commentText>
+            <comment-author>Евгения</comment-author>
+            <comment-tags>
+            <comment-tag>Вопрос </comment-tag>
+            </comment-tags>
+        </comment>
+        <comment>
+            <commentText>Iusto odio dignissimos ducimus qui blanditiis praesentium 
+            voluptatum deleniti</commentText>
+            <comment-author>First_name Last_name</comment-author>
+            <comment-tags>
+            <comment-tag> Автор </comment-tag>
+            </comment-tags>
+        </comment>
+        </comms>
+    </article>
+    <article>
+        <content>
+        <theme>At vero eos et accusamus et iusto odio dignissimos </theme>      
+                    <description>
+            At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis
+            praesentium voluptatum deleniti atque corrupti quos dolores et quas
+            molestias excepturi sint occaecati cupiditate non provident, similique
+            sunt in culpa qui officia deserunt mollitia animi, id est laborum et
+            dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. 
+            Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil 
+            impedit quo minus id quod maxime placeat facere possimus, omnis voluptas
+            assumenda est, omnis dolor repellendus. 
+                    </description>
+        </content>
+    <inf-meta>
+        <inf>6 декабря 2020</inf>
+        <author>First_name Last_name</author>
+         <keyWords>
+            <keyword>Woman </keyword>
+            <keyword>Footbal </keyword>
+            <keyword>ManCity </keyword>
+        </keyWords>
+        <apps>
+        <appfile>images/blog/image1.jpg</appfile>
+        <applink>
+            <applink-name>Post</applink-name>
+            <value>https://ru.wikipedia.org/wiki/Common_Language_Runtime</value>
+        </applink>
+        </apps>
+    </inf-meta>
+        <comms>
+        <comment>
+            <commentText>Dignissimos ducimus qui blanditiis</commentText>
+            <comment-author>Александр</comment-author>
+            <comment-tags>
+            <comment-tag>Комментарий </comment-tag>
+            </comment-tags>
+        </comment>
+        <comment>
+            <commentText>Dolores et quas molestias</commentText>
+            <comment-author>Евгения</comment-author>
+            <comment-tags>
+            <comment-tag>Вопрос </comment-tag>
+            </comment-tags>
+        </comment>
+        <comment>
+            <commentText>Iusto odio dignissimos ducimus qui blanditiis praesentium
+             voluptatum deleniti</commentText>
+             <comment-author>First_name Last_name</comment-author>
+             <comment-tags>
+             <comment-tag> Автор </comment-tag>
+             </comment-tags>
+        </comment>
+        </comms>
+            </article>
+            <article>
+        <content>
+    <theme>At vero eos et accusamus et iusto odio dignissimos </theme>
+                    <description>
+            At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis
+            praesentium voluptatum deleniti atque corrupti quos dolores et quas 
+            molestias excepturi sint occaecati cupiditate non provident, similique
+            sunt in culpa qui officia deserunt mollitia animi, id est laborum et
+            dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio.
+            Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil 
+            impedit quo minus id quod maxime placeat facere possimus, omnis voluptas 
+            assumenda est, omnis dolor repellendus.
+                     </description>
+        </content>
+        <inf-meta>
+            <date>6 декабря 2020</date>
+            <author>First_name Last_name</author>
+        <keyWords>
+        <keyword>Woman </keyword>
+            <keyword>Footbal </keyword>
+            <keyword>ManCity </keyword>
+        </keyWords>
+        <apps>
+            <appfile>images/blog/image1.jpg</appfile>
+        <applink>
+            <applink-name>Post</applink-name>
+            <value>https://ru.wikipedia.org/wiki/Common_Language_Runtime</value>
+        </applink>
+        </apps>
+        </inf-meta>
+        <comms>
+        <comment>
+            <commentText>Dignissimos ducimus qui blanditiis</commentText>
+            <comment-author>Александр</comment-author>
+            <comment-tags>
+            <comment-tag>Комментарий </comment-tag>
+        </comment-tags>
+        </comment>
+        <comment>
+            <commentText>Dolores et quas molestias</commentText>
+            <comment-author>Евгения</comment-author>
+            <comment-tags>
+            <comment-tag>Вопрос </comment-tag>
+        </comment-tags>
+        </comment>
+        <comment>
+            <commentText>Iusto odio dignissimos ducimus qui blanditiis praesentium 
+            voluptatum deleniti</commentText>
+            <comment-author>First_name Last_name</comment-author>
+            <comment-tags>
+            <comment-tag> Автор </comment-tag>
+            </comment-tags>
+        </comment>
+        </comms>
+    </article>
+    <article>
+        <content>
+            <theme>At vero eos et accusamus et iusto odio dignissimos </theme>
+                    <description>
+            At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis
+            praesentium voluptatum deleniti atque corrupti quos dolores et quas
+            molestias excepturi sint occaecati cupiditate non provident, similique
+            sunt in culpa qui officia deserunt mollitia animi, id est laborum et 
+            dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio.
+            Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil 
+            impedit quo minus id quod maxime placeat facere possimus, omnis voluptas
+            assumenda est, omnis dolor repellendus.
+                     </description>
+        </content>
+        <inf-meta>
+            <date>6 декабря 2020</date>
+            <author>First_name Last_name</author>
+            <keyWords>
+                <keyword>Woman </keyword>
+                <keyword>Footbal </keyword>
+                <keyword>ManCity </keyword>
+            </keyWords>
+        <apps>
+          <appfile>images/blog/image1.jpg</appfile>
+          <applink>
+          <applink-name>Post</applink-name>
+          <value>https://ru.wikipedia.org/wiki/Common_Language_Runtime</value>
+        </applink>
+        </apps>
+        </inf-meta>
+        <comms>
+        <comment>
+            <commentText>Dignissimos ducimus qui blanditiis</commentText>
+            <comment-author>Александр</comment-author>
+            <comment-tags>
+            <comment-tag>Комментарий </comment-tag>
+            </comment-tags>
+        </comment>
+        <comment>
+            <commentText>Dolores et quas molestias</commentText>
+            <comment-author>Евгения</comment-author>
+            <comment-tags>
+            <comment-tag>Вопрос </comment-tag>
+            </comment-tags>
+        </comment>
+        <comment>
+            <commentText>Iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti</commentText>
+            <comment-author>First_name Last_name</comment-author>
+            <comment-tags>
+            <comment-tag> Автор </comment-tag>
+            </comment-tags>
+        </comment>
+        </comms>
+            </article>
+            <article>
+        <content>
+            <theme>At vero eos et accusamus et iusto odio dignissimos </theme>
+                    <description>
+            At vero eos et accusamus et iusto odio dignissimos ducimus qui
+            blanditiis praesentium voluptatum deleniti atque corrupti quos 
+            dolores et quas molestias excepturi sint occaecati cupiditate non 
+            provident, similique sunt in culpa qui officia deserunt mollitia 
+            animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis 
+            est et expedita distinctio. Nam libero tempore, cum soluta nobis est 
+            eligendi optio cumque nihil impedit quo minus id quod maxime placeat
+            facere possimus, omnis voluptas assumenda est, omnis dolor repellendus.
+                     </description>
+        </content>
+        <inf-meta>
+            <date>6 декабря 2020</date>
+            <author>First_name Last_name</author>
+            <keyWords>
+                <keyword>Woman </keyword>
+                <keyword>Footbal </keyword>
+                <keyword>ManCity </keyword>
+            </keyWords>
+    <apps>
+        <appfile>images/blog/image1.jpg</appfile>
+        <applink>
+            <applink-name>Post</applink-name>
+            <value>https://ru.wikipedia.org/wiki/Common_Language_Runtime</value>
+        </applink>
+    </apps>
+    </inf-meta>
+        <comms>
+        <comment>
+            <commentText>Dignissimos ducimus qui blanditiis</commentText>
+            <comment-author>Александр</comment-author>
+            <comment-tags>
+            <comment-tag>Комментарий </comment-tag>
+            </comment-tags>
+        </comment>
+        <comment>
+            <commentText>Dolores et quas molestias</commentText>
+            <comment-author>Евгения</comment-author>
+            <comment-tags>
+            <comment-tag>Вопрос </comment-tag>
+            </comment-tags>
+        </comment>
+        <comment>
+            <commentText>Iusto odio dignissimos ducimus qui blanditiis praesentium
+             voluptatum deleniti</commentText>
+            <comment-author>First_name Last_name</comment-author>
+            <comment-tags>
+            <comment-tag> Автор </comment-tag>
+            </comment-tags>
+        </comment>
+        </comms>
+            </article>
+            <article>
+        <content>
+            <theme>At vero eos et accusamus et iusto odio dignissimos </theme>
+                    <description>
+            At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis 
+            praesentium voluptatum deleniti atque corrupti quos dolores et quas 
+            molestias excepturi sint occaecati cupiditate non provident, similique
+            sunt in culpa qui officia deserunt mollitia animi, id est laborum et 
+            dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio.
+            Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil 
+            impedit quo minus id quod maxime placeat facere possimus, omnis voluptas
+             assumenda est, omnis dolor repellendus.
+                   </description>
+        </content>
+        <inf-meta>
+            <date>6 декабря 2020</date>
+            <author>First_name Last_name</author>
+            <keyWords>
+                <keyword>Woman </keyword>
+                <keyword>Footbal </keyword>
+                <keyword>ManCity </keyword>
+            </keyWords>
+        <apps>
+        <appfile>images/blog/image1.jpg</appfile>
+        <applink>
+            <applink-name>Post</applink-name>
+            <value>https://ru.wikipedia.org/wiki/Common_Language_Runtime</value>
+        </applink>
+        </apps>
+    </inf-meta>
+        <comms>
+        <comment>
+            <commentText>Dignissimos ducimus qui blanditiis</commentText>
+            <comment-author>Александр</comment-author>
+            <comment-tags>
+            <comment-tag>Комментарий </comment-tag>
+            </comment-tags>
+        </comment>
+        <comment>
+            <commentText>Dolores et quas molestias</commentText>
+            <comment-author>Евгения</comment-author>
+            <comment-tags>
+            <comment-tag>Вопрос </comment-tag>
+            </comment-tags>
+        </comment>
+        <comment>
+            <commentText>Iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti</commentText>
+            <comment-author>First_name Last_name</comment-author>
+            <comment-tags>
+            <comment-tag> Автор </comment-tag>
+            </comment-tags>
+        </comment>
+        </comms>
+            </article>
+            <article>
+        <content>
+        <theme>At vero eos et accusamus et iusto odio dignissimos </theme>
+                    <description>
+            At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis 
+            praesentium voluptatum deleniti atque corrupti quos dolores et quas
+            molestias excepturi sint occaecati cupiditate non provident,
+            similique sunt in culpa qui officia deserunt mollitia animi, id est
+            laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita
+            distinctio. Nam libero tempore, cum soluta nobis est eligendi optio 
+            cumque nihil impedit quo minus id quod maxime placeat facere possimus,
+            omnis voluptas assumenda est, omnis dolor repellendus. 
+                    </description>
+        </content>
+        <inf-meta>
+            <date>6 декабря 2020</date>
+            <author>First_name Last_name</author>
+                <keyWords>
+                <keyword>Woman </keyword>
+                <keyword>Footbal </keyword>
+                <keyword>ManCity </keyword>
+            </keyWords>
+            <apps>
+            <appfile>images/blog/image1.jpg</appfile>
+            <applink>
+            <applink-name>Post</applink-name>
+            <value>https://ru.wikipedia.org/wiki/Common_Language_Runtime</value>
+        </applink>
+        </apps>
+        </inf-meta>
+        <comms>
+        <comment>
+            <commentText>Dignissimos ducimus qui blanditiis</commentText>
+            <comment-author>Александр</comment-author>
+            <comment-tags>
+            <comment-tag>Комментарий </comment-tag>
+            </comment-tags>
+        </comment>
+        <comment>
+            <commentText>Dolores et quas molestias</commentText>
+            <comment-author>Евгения</comment-author>
+            <comment-tags>
+            <comment-tag>Вопрос </comment-tag>
+            </comment-tags>
+        </comment>
+        <comment>
+            <commentText>Iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti</commentText>
+            <comment-author>First_name Last_name</comment-author>
+            <comment-tags>
+            <comment-tag> Автор </comment-tag>
+            </comment-tags>
+        </comment>
+        </comms>
+            </article>
+            <article>
+        <content>
+            <theme>At vero eos et accusamus et iusto odio dignissimos </theme>
+                    <description>
+            At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis 
+            praesentium voluptatum deleniti atque corrupti quos dolores et quas 
+            molestias excepturi sint occaecati cupiditate non provident, similique 
+            sunt in culpa qui officia deserunt mollitia animi, id est laborum et
+            dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. 
+            Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil
+            impedit quo minus id quod maxime placeat facere possimus, omnis voluptas 
+            assumenda est, omnis dolor repellendus.
+                     </description>
+        </content>
+        <inf-meta>
+            <date>6 декабря 2020</date>
+            <author>First_name Last_name</author>
+            <keyWords>
+                <keyword>Woman </keyword>
+                <keyword>Footbal </keyword>
+                <keyword>ManCity </keyword>
+            </keyWords>
+            <apps>
+                <appfile>images/blog/image1.jpg</appfile>
+                <applink>
+                <applink-name>Post</applink-name>
+                <value>https://ru.wikipedia.org/wiki/Common_Language_Runtime</value>
+                </applink>
+            </apps>
+        </inf-meta>
+        <comms>
+        <comment>
+            <commentText>Dignissimos ducimus qui blanditiis</commentText>
+            <comment-author>Александр</comment-author>
+            <comment-tags>
+            <comment-tag>Комментарий </comment-tag>
+            </comment-tags>
+        </comment>
+        <comment>
+            <commentText>Dolores et quas molestias</commentText>
+            <comment-author>Евгения</comment-author>
+            <comment-tags>
+            <comment-tag>Вопрос </comment-tag>
+            </comment-tags>
+        </comment>
+        <comment>
+            <commentText>Iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti</commentText>
+            <comment-author>First_name Last_name</comment-author>
+            <comment-tags>
+            <comment-tag> Автор </comment-tag>
+            </comment-tags>
+        </comment>
+        </comms>
+            </article>
+</blogpage>

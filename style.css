@@ -1,0 +1,34 @@
+/*p, h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+      font-size: 14px;
+      color: red;
+
+}
+
+  a:link {color:red;} 
+  a:visited {color: chartreuse;}
+
+  table {
+    width: 600px;
+
+      }
+
+      .ed {
+        color: chocolate;
+            }
+
+  li {
+    list-style: none;
+  }
+  .one {
+    background-color: cyan ;
+  }
+
+  img {
+    display: block;
+    width: 200px;
+    margin: 50px 30px 50px 30px;
+  }
+  
+  <link rel="stylesheet" href="style.css">*/
+

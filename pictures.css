@@ -1,0 +1,23 @@
+/*картинка*/
+#Foto {
+    width: 150px;
+    border-radius: 28px;
+    box-shadow: 4px 4px 14px rgba(0,0,0,0.25);
+
+}
+.info {
+    display: flex;
+    margin-bottom: 20px;
+    }
+    @media (max-width:700px) {
+        .info {
+            text-align: center;
+            display: block;
+        }
+    }
+    .info-text {
+        margin-left: 40px;
+    }
+    .info-text {
+        margin-bottom: 10px;
+    }
